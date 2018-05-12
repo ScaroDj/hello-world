@@ -1,2 +1,5 @@
 # hello-world
-my_first_git
+
+following GitHub "Hello world" tutorial is exciting!
+
+regards.
