@@ -1,4 +1,4 @@
 # Program that does nothing
 # Author: ScaroDj
 
-print("Hellow world!")
+print("Hellow new world!")
